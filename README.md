@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adainoo Ezekiel
 - 👀 I’m interested in Creating and Hosting Websites
-- 🌱 I’m currently learning BAckend Programming
+- 🌱 I’m currently learning Backend Programming
 - 💞️ I’m looking to collaborate on Building web pages
 - 📫 How to reach me use my Email: ezekieladainoo@gmail.com
 - 😄 Pronouns: He and/or Him
